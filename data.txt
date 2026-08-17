@@ -6,3 +6,5 @@ WHISPERING OF WINTER SNOW.
 
 
 lkjlj
+claude --resume ffe20f41-0b96-4440-820b-baff42a51e28
+
